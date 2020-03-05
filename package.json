@@ -1,0 +1,16 @@
+{
+  "main": "hello.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.1.0",
+    "mocha": "^5.0.4",
+    "solc": "^0.6.3",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.26",
+    "webpack": "^4.42.0"
+  }
+}
